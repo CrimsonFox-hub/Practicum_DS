@@ -7,7 +7,7 @@
 
 | Проект | Описание | Библиотеки &nbsp; &nbsp; | Навыки &nbsp; &nbsp; |
 |---|---|---|---|
-| [15_.ipynb](15%20Прогнозирование%20энергопотребления%20производства) | Прогнозирование энергопотребления на металлопроизводстве  | `LightGBM` `NumPy` `CatBoost` `Pandas` `Sklearn` `Seaborn` `Matplotlib` | `ML`<br>`Data Analysis` |
+| [/15_.ipynb](15%20Прогнозирование%20энергопотребления%20производства) | Прогнозирование энергопотребления на металлопроизводстве  | `LightGBM` `NumPy` `CatBoost` `Pandas` `Sklearn` `Seaborn` `Matplotlib` | `ML`<br>`Data Analysis` |
 | [14_Comp_vision](13%20Компьютерное%20зрение) | Определение приблизительного возраста человека по фотографии | `Keras` `NumPy` `PIL` `Matplotlib` | `ML`<br>`Computer Vision` |
 | [13_Mash_ob](12%20Классификация%20текстовых%20комментариев) | Классификация текстовых комментариев на позитивные и негативные | `LightGBM` `Pandas` `Sklearn` `Seaborn` `NLTK` `Matplotlib` | `ML`<br>`NLP` `tf-idf` |
 | [12_Time_line](11%20Прогнозирование%20количества%20заказов%20такси) | Модель машинного обучения для прогнозирования спроса на такси на следующий час | `CatBoost` `NumPy` `LightGBM` `Pandas` `Sklearn` `Seaborn` `Statsmodels` `Matplotlib` | `ML`<br>`Time Series` |
